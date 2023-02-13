@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e172c0de.chunk.css",
+    "main.js": "/static/js/main.96a46e8d.chunk.js",
+    "main.js.map": "/static/js/main.96a46e8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58daf270.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58daf270.js.map",
+    "static/css/2.fc2db407.chunk.css": "/static/css/2.fc2db407.chunk.css",
+    "static/js/2.c66a31fb.chunk.js": "/static/js/2.c66a31fb.chunk.js",
+    "static/js/2.c66a31fb.chunk.js.map": "/static/js/2.c66a31fb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fc2db407.chunk.css.map": "/static/css/2.fc2db407.chunk.css.map",
+    "static/css/main.e172c0de.chunk.css.map": "/static/css/main.e172c0de.chunk.css.map",
+    "static/js/2.c66a31fb.chunk.js.LICENSE.txt": "/static/js/2.c66a31fb.chunk.js.LICENSE.txt",
+    "static/media/1227.af0d3036.gif": "/static/media/1227.af0d3036.gif",
+    "static/media/CvHome.scss": "/static/media/7.07ca677f.jpg",
+    "static/media/Contact.scss": "/static/media/cup-of-coffee-1280537.6a38181e.jpg",
+    "static/media/logoNew2.022b877e.png": "/static/media/logoNew2.022b877e.png",
+    "static/media/Banner.scss": "/static/media/notebook-1971495.95a22b25.jpg",
+    "static/media/xinviec.4739b8bf.jpg": "/static/media/xinviec.4739b8bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58daf270.js",
+    "static/css/2.fc2db407.chunk.css",
+    "static/js/2.c66a31fb.chunk.js",
+    "static/css/main.e172c0de.chunk.css",
+    "static/js/main.96a46e8d.chunk.js"
+  ]
+}
